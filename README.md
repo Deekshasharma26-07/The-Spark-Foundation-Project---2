@@ -8,4 +8,4 @@ predict the right class accordingly.
 
 ● Dataset : https://bit.ly/3kXTdox
 
-● Sample Solution : https://bit.ly/2G6sYx9
+
