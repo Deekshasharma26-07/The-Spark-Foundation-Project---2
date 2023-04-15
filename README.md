@@ -1,11 +1,11 @@
 # The-Spark-Foundation-internship-project-2
 
-Predict the percentage of an student based on the no. of study hours. 
+Create the Decision Tree classifier and visualize it graphically. 
 
-● This is a simple linear regression task as it involves just 2 variables.
+● The purpose is if we feed any new data to this classifier, it would be able to 
 
-● You can use R, Python, SAS Enterprise Miner or any other tool 
+predict the right class accordingly. 
 
-● Data can be found at http://bit.ly/w-data
+● Dataset : https://bit.ly/3kXTdox
 
-● What will be predicted score if a student studies for 9.25 hrs/ day? 
+● Sample Solution : https://bit.ly/2G6sYx9
